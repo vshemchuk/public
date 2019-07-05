@@ -15,3 +15,5 @@ To do a job put .py sript and both .csv files in the same folder. Than use any I
 In case something is not working @alexp may help. I did not asked him for help but he's the only one in company who I know use Python. Any case, scrip is primitive, so other backend people may help as well.
 
 No dependencies used so installing extra modules not required.
+
+This is a public repository visible to anyone in the net, so make sure not to save any e-mails list here.
