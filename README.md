@@ -8,7 +8,7 @@ emails_list.csv -- list of e-mails to sort.
 domains_list.csv -- list of known public e-mail servers. You may add more domains there.
 
 Output is list of e-mail not registered on servers from domains_list.csv.
-By default is just printed to console but if I found some time -- saving output to file will be in my TODO.
+By default is just printed to console but if I found some time -- saving output to file will be in my TODO. Any case list of e-mails can be easily copied from console and saved to separate file manualy.
 
 To do a job, save members e-mail list to .csv file. It can be done with TextEdit changing file extensions from .txt to .csv. Put .py sript and both .csv files in the same folder. Than use any IDE (CodeRunner from Setapp will fit) to open .py scrip and run it. This is Python 3 code, it requires tweeking to get it running with earlier versions of Python.
 
